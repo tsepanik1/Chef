@@ -1,4 +1,4 @@
-mac_config_userdefaults "enable firewall" do
+defaultsetting "enable firewall" do
 	domain "/Library/Preferences/com.apple.alf"
 	key "globalstate"
 	value "1"
