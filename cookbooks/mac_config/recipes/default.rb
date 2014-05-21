@@ -6,5 +6,3 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-include_recipe "mac_config::finder.rb"
-include_recipe "mac_config::firewall.rb"
